@@ -1,3 +1,2 @@
-# webdev110-project1
+# Project1 Book store
 
-Book store
